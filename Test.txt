@@ -1,2 +1,3 @@
 Hello GIT
 this is edited line
+This is line 3
